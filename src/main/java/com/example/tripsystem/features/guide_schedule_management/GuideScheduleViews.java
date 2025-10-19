@@ -12,3 +12,4 @@ public class GuideScheduleViews {
         return "guide-schedule-management/guide-schedule-management";
     }
 }
+
